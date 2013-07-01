@@ -1,4 +1,4 @@
 IUEE-Code-Repository---Team-9
 =============================
 
-This ios where all the code goes
+This is where all the code goes
